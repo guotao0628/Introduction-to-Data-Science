@@ -31,7 +31,7 @@ and taught several data science courses at Harvard as well as popular online cou
     contemporary data science and programing, helping to students and researchers in their projects."
     ~Technometrics
 
-    &emsp; "Introduction to Data Science will teach you to juggle with your data and get maximum results from
+   &emsp;  "Introduction to Data Science will teach you to juggle with your data and get maximum results from
     it using R. I highly recommended this book for students and everybody taking the first steps in data
     science using R." ~ Maria Ivanchuk, ISCB News
 
