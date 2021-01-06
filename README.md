@@ -1,5 +1,6 @@
-<p align="center">  # Introduction-to-Data-Science <p align="center"> 
+<p align="center">   Introduction-to-Data-Science <p align="center"> 
 
+-----------------------------------------------------------------------------------------
 
 # Author(s)
 
